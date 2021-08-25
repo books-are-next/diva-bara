@@ -22,8 +22,8 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "mlpversei\ncalibre17",
+      "strong": "mlpznaktucne\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,37 +32,45 @@
         "filename": "diva_bara_001.md",
         "xhtml": "diva_bara_001.html",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_002.md",
         "xhtml": "diva_bara_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_003.md",
         "xhtml": "diva_bara_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_004.md",
         "xhtml": "diva_bara_004.html",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_005.md",
@@ -71,7 +79,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "I.",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_006.md",
@@ -80,7 +90,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "II.",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "III.",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_008.md",
@@ -98,16 +112,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Poznámky pod čarou",
+        "subtitle": ""
       },
       {
         "filename": "diva_bara_009.md",
         "xhtml": "diva_bara_009.html",
         "id": 8,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -117,7 +135,7 @@
       "identifier": "22d649b3-278e-498c-bb28-5fd12c7112b1",
       "author": "Božena Němcová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-25T11:59:50.565Z"
+      "modified": "2021-08-25T12:07:40.482Z"
     },
     "chapters": [
       {
@@ -249,6 +267,6 @@
       "user": "books-are-next",
       "repo": "diva-bara"
     },
-    "generatedAt": 1629892790877
+    "generatedAt": 1629893260824
   }
 }

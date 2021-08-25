@@ -12,14 +12,19 @@ meta:
 chapters:
   - diva_bara_001.html
   - diva_bara_002.html
-  - diva_bara_003.html
-  - diva_bara_004.html
   - diva_bara_005.html
   - diva_bara_006.html
   - diva_bara_007.html
   - diva_bara_008.html
-  - diva_bara_009.html
-tocBase: []
+tocBase:
+  - link: diva_bara_005.html
+    title: I.
+  - link: diva_bara_006.html
+    title: II.
+  - link: diva_bara_007.html
+    title: III.
+  - link: diva_bara_008.html
+    title: Poznámky pod čarou
 static:
   - style
   - scripts

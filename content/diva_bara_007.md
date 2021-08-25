@@ -14,10 +14,10 @@ Zkrátka, panna Pepinka uměla to pěkně navléknout, aby pan správce často n
 
 Od té doby, co věděla Elška, oč se správci jedná, neslyšel od ní vlídného slova, neviděl libého pohledu. Nikdo by byl neřekl, že dobrá a ke každému vlídná Elška dokáže úsečně mluvit a škaredě hledět. Pokaždé, když pak přicházel na faru, slyšíval po návsi nebo kdesi u plotu hanlivé písničky, které jako by byly schválně na něho složené a pro něho schválně zpívané. On si to ale všecko nechal líbit, když ale jednou Báru potkal a ona tu zčista jasna spustila:
 
-„Lecjakýs trpaslíček  
+_„Lecjakýs trpaslíček  
 na krátkých nožičkách  
 chtěl by sobě vybírati  
-v hezounkých holčičkách…“
+v hezounkých holčičkách…“_
 
 tu se zlostí všecek nadrchal a nos mu zčervenal jako ťopanu[\[15\]](../Text/diva_bara_008.html#_ftn15), když vidí před sebou červeno. Ale což to bylo všecko platné, pan správce zakousl již všelikou hanbu a posměch, zakousl i posměch děvčat. Myslel si: „Jen počkej, děvče, až tě budu mít, a tvoje peníze, však já všem vytřu zrak!“ – Ale pan správce zapomněl, že ani v Hloupětíně dříve zloděje nevěsí, až když ho chytí.
 
