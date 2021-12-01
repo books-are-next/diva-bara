@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Divá Bára",
@@ -6,7 +7,9 @@
       "author": "Božena Němcová",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-25T11:52:12.566Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -32,7 +35,7 @@
         "filename": "diva_bara_001.md",
         "xhtml": "diva_bara_001.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -270,3 +273,4 @@
     "generatedAt": 1629894066399
   }
 }
+
