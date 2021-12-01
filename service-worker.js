@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-fc46a4d';
+const CACHE = 'cache-07e7c18';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./diva_bara_001.html","./diva_bara_002.html","./diva_bara_005.html","./diva_bara_006.html","./diva_bara_007.html","./diva_bara_008.html","./favicon.png","./index.html","./manifest.json","./resources.html","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./diva_bara_001.html","./diva_bara_002.html","./diva_bara_005.html","./diva_bara_006.html","./diva_bara_007.html","./diva_bara_008.html","./favicon.png","./index.html","./resources.html","./manifest.json","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
