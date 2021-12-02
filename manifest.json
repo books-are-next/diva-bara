@@ -1,98 +1,46 @@
 {
   "author": "Božena Němcová",
-  "identifier": "nemcova-diva-bara-07e7c18",
+  "edition": "beletrie",
+  "identifier": "nemcova-diva-bara-842df79",
   "languagecode": "cs",
   "modified": "2021-08-25T11:52:12.566Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Divá Bára",
-  "revision": "07e7c18",
+  "revision": "842df79",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:27:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379653365
+    "date": "Thu Dec 02 2021 11:51:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638445886146
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 137,
-      "chars": 865,
-      "ideas": 24,
-      "role": "colophon",
-      "order": null,
-      "next": "diva_bara_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--1",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "diva_bara_001.html",
+      "title": "Divá Bára",
+      "file": "diva_bara_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "diva_bara_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "diva_bara_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "diva_bara_001.html",
       "next": "diva_bara_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I.",
+      "title": "I. • Divá Bára",
       "file": "diva_bara_005.html",
       "words": 3526,
       "chars": 20095,
       "ideas": 31,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "diva_bara_002.html",
       "next": "diva_bara_006.html",
       "toc": [
@@ -100,19 +48,19 @@
           "index": 0,
           "level": 1,
           "name": "I.",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "II.",
+      "title": "II. • Divá Bára",
       "file": "diva_bara_006.html",
       "words": 4206,
       "chars": 23718,
       "ideas": 101,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "diva_bara_005.html",
       "next": "diva_bara_007.html",
       "toc": [
@@ -120,19 +68,19 @@
           "index": 0,
           "level": 1,
           "name": "II.",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "III.",
+      "title": "III. • Divá Bára",
       "file": "diva_bara_007.html",
       "words": 5534,
       "chars": 31016,
       "ideas": 110,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "diva_bara_006.html",
       "next": "diva_bara_008.html",
       "toc": [
@@ -140,59 +88,57 @@
           "index": 0,
           "level": 1,
           "name": "III.",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou",
+      "title": "Poznámky pod čarou • Divá Bára",
       "file": "diva_bara_008.html",
       "words": 195,
       "chars": 1231,
       "ideas": 20,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "diva_bara_007.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Poznámky pod čarou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
+      "title": "Tiráž • Divá Bára",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 852,
+      "ideas": 23,
+      "role": "colophon",
       "order": null,
-      "next": "diva_bara_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "diva_bara_001.html",
-      "toc": []
+      "prev": "diva_bara_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 13598,
-      "chars": 76925,
-      "ideas": 286
+      "words": 13601,
+      "chars": 76946,
+      "ideas": 289
     },
     "chapters": {
       "words": 13461,
