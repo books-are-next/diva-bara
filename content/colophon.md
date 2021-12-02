@@ -1,15 +1,15 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Divá Bára
 
 Božena Němcová
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Divá Bára](https://search.mlp.cz/cz/titul/diva-bara-dobry-clovek/4291285/) tak, jak bylo vydáno v Praze nakladatelstvím Akcent v roce 2016. Pro potřeby vydání Městské  
 knihovny v Praze byl text redakčně zpracován.
@@ -35,9 +35,7 @@ Verze 1.0 z 20. 7. 2018.
 ![0](./resources/image003.png)
 
 
----
-title: ''
----
+***
 
 **Božena Němcová**
 

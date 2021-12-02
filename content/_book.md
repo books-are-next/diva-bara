@@ -9,13 +9,15 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-25T11:52:12.566Z'
   languageCode: cs
-chapters:
-  - diva_bara_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - diva_bara_002.html
   - diva_bara_005.html
   - diva_bara_006.html
   - diva_bara_007.html
   - diva_bara_008.html
+  - colophon.html
 tocBase:
   - link: diva_bara_005.html
     title: I.
@@ -31,5 +33,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
