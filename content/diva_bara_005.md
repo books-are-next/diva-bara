@@ -1,5 +1,6 @@
 ---
-title: I.
+title: I\.
+contentType: prose
 ---
 
 Vestec je velká dědina, mají tam kostel i školu, u kostela je fara, vedle ní kostelníkova chalupa, také rychtář zůstává vprostřed vsi, na samém konci dědiny pak stojí chaloupka obecního pastýře. Za chalupou táhlo se dlouhé údolí, ohrazené z obou stran vršinami, porostlými nejvíce jehličím. Sem tam bylo vidět mejtiště[\[1\]](./resources/undefined) nebo zelený palouk, na němž porůznu stály bělokoré, světlolisté břízy, ty dívky mezi stromovím, jako by je tam příroda nechala vyrůst k obveselení těm zasmušilým smrkům a jedlím, vážným dubům a bukům. Uprostřed údolí mezi lučinami a poli tekla řeka, zrovna okolo pastýřovy chalupy. Její břehy byly vroubeny olšemi a vrbami.
