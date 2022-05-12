@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Divá Bára
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - diva_bara_002.html
+  - promo.html
   - diva_bara_005.html
   - diva_bara_006.html
   - diva_bara_007.html

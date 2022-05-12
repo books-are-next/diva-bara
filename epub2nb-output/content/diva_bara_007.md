@@ -1,5 +1,6 @@
 ---
-title: III.
+title: III\.
+contentType: prose
 ---
 
 Dvě noviny roznášely se po vesnici. V každém statku, v každé chalupě se o ničem jiném nemluvilo než o strašidle v zádušním lese a o svatbě panny Elšky s panem správčím.
