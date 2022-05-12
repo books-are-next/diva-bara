@@ -46,7 +46,7 @@
         "filename": "diva_bara_002.md",
         "xhtml": "diva_bara_002.html",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -273,4 +273,3 @@
     "generatedAt": 1629894066399
   }
 }
-
