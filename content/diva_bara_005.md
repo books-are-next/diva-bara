@@ -3,6 +3,8 @@ title: I\.
 contentType: prose
 ---
 
+<section>
+
 Vestec je velká dědina, mají tam kostel i školu, u kostela je fara, vedle ní kostelníkova chalupa, také rychtář zůstává vprostřed vsi, na samém konci dědiny pak stojí chaloupka obecního pastýře. Za chalupou táhlo se dlouhé údolí, ohrazené z obou stran vršinami, porostlými nejvíce jehličím. Sem tam bylo vidět mejtiště[\[1\]](./resources/undefined) nebo zelený palouk, na němž porůznu stály bělokoré, světlolisté břízy, ty dívky mezi stromovím, jako by je tam příroda nechala vyrůst k obveselení těm zasmušilým smrkům a jedlím, vážným dubům a bukům. Uprostřed údolí mezi lučinami a poli tekla řeka, zrovna okolo pastýřovy chalupy. Její břehy byly vroubeny olšemi a vrbami.
 
 Obecní pastýř se jmenoval Jakub a zůstával se svou dcerou Bárou v té poslední chalupě. Jakub byl již šedesátník, Bára jeho prvorozené dítě, jedináčka. Přál si ovšem mít syna, dědice svého jména, ale když Bára povyrůstala, nelitoval. Milejší mu byla než syn a mnohdy si myslil: „Ať si je děvče, přece je mé dítě. Umřu jako člověk a mám stupeň do nebe.“
@@ -62,3 +64,5 @@ Když někdy přiběhla Elška k Báře a byly jisty, že je nikdo nevidí, šly
 Tak se ta děvčata mile těšila; často se Josífek k nim přidružil, když strojily hody, musíval přinášet, co bylo potřeba, strouhat a krájet, když hrály na vlka, musel být ovcí, při výměnách hrnce vozit. Ale on si ze všeho nic nedělal, a přece jen nejraději u děvčat byl.
 
 Přešel dětem dvanáctý rok a byl učiněn konec jejich dětinským radostem. Josífka dal kostelník do města na studie, chtěl mít z něho pana pátera. Elšku dala panna Pepinka do Prahy k bohaté, bezdětné tetě, aby se naučila způsobům a teta aby nezapomněla na své venkovské přátele. Bára zůstala s tatíkem a Lišajem sama.
+
+</section>

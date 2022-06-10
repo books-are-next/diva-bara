@@ -3,6 +3,8 @@ title: II\.
 contentType: prose
 ---
 
+<section>
+
 Život na venkově plyne tiše, bez hluku a šumu, jako luční potok. Tři léta minula, co Elška do Prahy odjela. Zprvu ani panna Pepinka ani pan farář si nemohli zvyknout, nesmírně se jim stýskalo, když ale kostelník namítl, proč se Elška z domu posílala, říkala panna Pepinka velmi moudře: „Milý Vlčku, člověk nesmí žít pro dnes, musíme myslet na dále. My – nu, copak my už, dá Pánbůh, ten život nějak protlučem. Ale Elška je mladá, na tu je nutno myslet. Peníze zachovat, ty můj milý bože, z čehopak! Trocha peřin, vybytí, to je všecko, co někdy po nás dostane, a to je málo. Svět se ohlíží po těchto (přitom rozevřela Pepinka dlaň a druhou rukou dělala na ní pantomimu počítání) a pražská teta jich má – nepočítaných. Snad se jí Elška zalíbí, jen k jejímu dobru ji tam necháváme.“ Pan kostelník dal panně Pepince zcela zapravdu.
 
 Pražská paní teta stonala mnoho let, od té doby, co jí manžel zemřel. Vždy psala panu švagrovi a panně švagrové, že je živa jen na lécích, a kdyby neznal její lékař předobře její náturu, že by dávno ležela na svatém poli. Najednou ale psala Elška, že má paní teta jiného lékaře, ten že jí radil, aby se každodenně koupala ve studené vodě, hodně chodila, dobře jedla a pila, že bude hned zdráva. Paní teta že ho poslechla, a že je zdráva jako rys.
@@ -202,3 +204,5 @@ Elška měla sepnuté ruce položené na zábradlí, dívala se planoucím zrake
 „Až někdy!“ zavrtěla hlavou Bára, vysmekla ruce z Elščiných, ukazovala na chlív a boudu a doložila: „Vidíte Lišaje, jak se cuká, a Černá se tam ještě oběsí. Chtějí pustit a vaše krávy také jsou již ve stádu, slyším je zvonit. Hned požene tatík kolem. Jděte okolo zahrad, Elško, aby vás selky neviděly a nepomluvily.“
 
 „Eh, ať si mluví, vždyť nedělám nic zlého. Poslechnu tě, jdu, ale co nejdřív si povíme víc,“ pravila Elška a zmizela mezi ploty.
+
+</section>
