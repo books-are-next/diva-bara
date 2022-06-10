@@ -3,6 +3,8 @@ title: III\.
 contentType: prose
 ---
 
+<section>
+
 Dvě noviny roznášely se po vesnici. V každém statku, v každé chalupě se o ničem jiném nemluvilo než o strašidle v zádušním lese a o svatbě panny Elšky s panem správčím.
 
 Sama Elška se nezpronevěřila ani myšlenkou a umínila si, že raději vše podstoupí, než by se stala paní správcovou. I kdyby nebyla již milovala, pan správce nebyl ten člověk, do něhož by se mohla zamilovat.
@@ -217,3 +219,5 @@ Před svatbou se všichni lidé s ní smířili, i kostelníková jí přála š
 Když si myslivec svoji mladou ženu prováděl po stavení a přivedl ji do pokojíka, kde bylo jeho lože, sundal nad ním zavěšený již suchý věneček. „Znáš ho?“ ptal se Báry. Byl to ten samý, co na vrbě uvázl na svatojanské ráno. – Bára se usmála.
 
 „A na koho jsi myslela, když jsi ho do vody házela?“ ptal se myslivec a přivinul si ji k srdci. Bára neodpověděla, ale objala ho a pozdvihla k němu s úsměvem milé oči, jež lidé nazývali buličí, myslivec je však měl za nejkrásnější na celém širém světě.
+
+</section>

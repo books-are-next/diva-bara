@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Mýtina. _Pozn. red._
 
 [\[2\]](./resources/undefined) Druh tkaniny; termín dle kontextu značí ženskou sukni, nebo mužský kabát. _Pozn. red._
@@ -40,3 +42,5 @@ contentType: prose
 [\[18\]](./resources/undefined) Přezrálá hruška. _Pozn. red._
 
 [\[19\]](./resources/undefined) Místnost určená pro čeleď. _Pozn. red._
+
+</section>
