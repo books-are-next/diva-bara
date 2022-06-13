@@ -31,103 +31,109 @@
     },
     "structure": [
       {
-        "filename": "diva_bara_001.md",
-        "xhtml": "diva_bara_001.html",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_002.md",
-        "xhtml": "diva_bara_002.html",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_003.md",
-        "xhtml": "diva_bara_003.html",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_004.md",
-        "xhtml": "diva_bara_004.html",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_005.md",
-        "xhtml": "diva_bara_005.html",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "I.",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_006.md",
-        "xhtml": "diva_bara_006.html",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "II.",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_007.md",
-        "xhtml": "diva_bara_007.html",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "III.",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_008.md",
-        "xhtml": "diva_bara_008.html",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Poznámky pod čarou",
-        "subtitle": ""
-      },
-      {
-        "filename": "diva_bara_009.md",
-        "xhtml": "diva_bara_009.html",
-        "id": 8,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "diva_bara_001.md",
+            "xhtml": "diva_bara_001.html",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_002.md",
+            "xhtml": "diva_bara_002.html",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_003.md",
+            "xhtml": "diva_bara_003.html",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_004.md",
+            "xhtml": "diva_bara_004.html",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_005.md",
+            "xhtml": "diva_bara_005.html",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "I.",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_006.md",
+            "xhtml": "diva_bara_006.html",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "II.",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_007.md",
+            "xhtml": "diva_bara_007.html",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "III.",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_008.md",
+            "xhtml": "diva_bara_008.html",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Poznámky pod čarou",
+            "subtitle": ""
+          },
+          {
+            "filename": "diva_bara_009.md",
+            "xhtml": "diva_bara_009.html",
+            "id": 8,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          }
+        ]
       }
     ]
   },
@@ -269,6 +275,6 @@
       "user": "books-are-next",
       "repo": "diva-bara"
     },
-    "generatedAt": 1654948216828
+    "generatedAt": 1655156734417
   }
 }

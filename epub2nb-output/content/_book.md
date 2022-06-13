@@ -20,14 +20,17 @@ readingOrder:
   - diva_bara_008.html
   - colophon.html
 tocBase:
-  - link: diva_bara_005.html
-    title: I.
-  - link: diva_bara_006.html
-    title: II.
-  - link: diva_bara_007.html
-    title: III.
-  - link: diva_bara_008.html
-    title: Poznámky pod čarou
+  - id: section-1
+    children:
+      - link: diva_bara_005.html
+        title: I.
+      - link: diva_bara_006.html
+        title: II.
+      - link: diva_bara_007.html
+        title: III.
+      - link: diva_bara_008.html
+        title: Poznámky pod čarou
+    isSection: true
 static:
   - style
   - scripts

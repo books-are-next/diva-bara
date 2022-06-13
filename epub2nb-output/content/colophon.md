@@ -2,15 +2,18 @@
 title: Tiráž
 ---
 
-<section>  
 **Božena Němcová**  
 **Divá Bára**  
 Edice Literatura pro děti a mládež  
 Redakce Markéta Teuchnerová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Divá Bára](https://search.mlp.cz/cz/titul/diva-bara-dobry-clovek/4291285/) tak, jak bylo vydáno v Praze nakladatelstvím Akcent v roce 2016. Pro potřeby vydání Městské  
+knihovny v Praze byl text redakčně zpracován.
 
 ***
 
