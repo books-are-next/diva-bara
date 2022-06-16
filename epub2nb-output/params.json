@@ -8,7 +8,8 @@
       "modified": "2021-08-25T11:52:12.566Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -275,6 +276,6 @@
       "user": "books-are-next",
       "repo": "diva-bara"
     },
-    "generatedAt": 1655271184899
+    "generatedAt": 1655364124291
   }
 }
