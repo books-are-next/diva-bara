@@ -61,7 +61,7 @@
             "filename": "diva_bara_003.md",
             "xhtml": "diva_bara_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -72,7 +72,7 @@
             "filename": "diva_bara_004.md",
             "xhtml": "diva_bara_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -127,7 +127,7 @@
             "filename": "diva_bara_009.md",
             "xhtml": "diva_bara_009.html",
             "id": 8,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -276,6 +276,6 @@
       "user": "books-are-next",
       "repo": "diva-bara"
     },
-    "generatedAt": 1655978253305
+    "generatedAt": 1657181779853
   }
 }

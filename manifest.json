@@ -8,19 +8,19 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-diva-bara-6e18761",
-  "revision": "6e18761",
+  "identifier": "nemcova-diva-bara-fb04bf2",
+  "revision": "fb04bf2",
   "readingOrder": [
     "promo.html",
     "diva_bara_005.html",
     "diva_bara_006.html",
     "diva_bara_007.html",
     "diva_bara_008.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:00:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978405444
+    "date": "Thu Jul 07 2022 08:21:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182065215
   },
   "documents": [
     {
@@ -104,7 +104,7 @@
       "role": "chapter",
       "order": 4,
       "prev": "diva_bara_007.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -117,11 +117,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 123,
-      "chars": 806,
+      "chars": 805,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "diva_bara_008.html",
       "next": null,
@@ -139,7 +139,7 @@
   "totals": {
     "all": {
       "words": 13590,
-      "chars": 76900,
+      "chars": 76899,
       "ideas": 281
     },
     "chapters": {
