@@ -19,7 +19,7 @@ readingOrder:
   - diva_bara_006.html
   - diva_bara_007.html
   - diva_bara_008.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
