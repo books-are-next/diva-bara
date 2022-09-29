@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-diva-bara-40edc38",
-  "revision": "40edc38",
+  "identifier": "nemcova-diva-bara-25a9419",
+  "revision": "25a9419",
   "readingOrder": [
     "promo.html",
     "diva_bara_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:42:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414530522
+    "date": "Thu Sep 29 2022 21:21:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486469305
   },
   "documents": [
     {
@@ -39,7 +39,7 @@
       "title": "I.",
       "file": "diva_bara_005.html",
       "words": 3526,
-      "chars": 20095,
+      "chars": 20103,
       "ideas": 31,
       "role": "chapter",
       "order": 1,
@@ -59,7 +59,7 @@
       "title": "II.",
       "file": "diva_bara_006.html",
       "words": 4206,
-      "chars": 23718,
+      "chars": 23722,
       "ideas": 101,
       "role": "chapter",
       "order": 2,
@@ -79,7 +79,7 @@
       "title": "III.",
       "file": "diva_bara_007.html",
       "words": 5534,
-      "chars": 31016,
+      "chars": 31023,
       "ideas": 110,
       "role": "chapter",
       "order": 3,
@@ -99,7 +99,7 @@
       "title": "Poznámky pod čarou",
       "file": "diva_bara_008.html",
       "words": 195,
-      "chars": 1231,
+      "chars": 1250,
       "ideas": 20,
       "role": "chapter",
       "order": 4,
@@ -139,12 +139,12 @@
   "totals": {
     "all": {
       "words": 13590,
-      "chars": 76900,
+      "chars": 76938,
       "ideas": 281
     },
     "chapters": {
       "words": 13461,
-      "chars": 76060,
+      "chars": 76098,
       "ideas": 262
     }
   }
