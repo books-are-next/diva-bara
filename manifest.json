@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-diva-bara-25a9419",
-  "revision": "25a9419",
+  "identifier": "nemcova-diva-bara-76875b6",
+  "revision": "76875b6",
   "readingOrder": [
     "promo.html",
     "diva_bara_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:21:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486469305
+    "date": "Sat Oct 01 2022 15:52:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639557477
   },
   "documents": [
     {
@@ -38,9 +38,9 @@
     {
       "title": "I.",
       "file": "diva_bara_005.html",
-      "words": 3526,
-      "chars": 20103,
-      "ideas": 31,
+      "words": 3648,
+      "chars": 20839,
+      "ideas": 39,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -58,9 +58,9 @@
     {
       "title": "II.",
       "file": "diva_bara_006.html",
-      "words": 4206,
-      "chars": 23722,
-      "ideas": 101,
+      "words": 4237,
+      "chars": 23901,
+      "ideas": 105,
       "role": "chapter",
       "order": 2,
       "prev": "diva_bara_005.html",
@@ -78,9 +78,9 @@
     {
       "title": "III.",
       "file": "diva_bara_007.html",
-      "words": 5534,
-      "chars": 31023,
-      "ideas": 110,
+      "words": 5573,
+      "chars": 31225,
+      "ideas": 117,
       "role": "chapter",
       "order": 3,
       "prev": "diva_bara_006.html",
@@ -98,9 +98,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "diva_bara_008.html",
-      "words": 195,
-      "chars": 1250,
-      "ideas": 20,
+      "words": 387,
+      "chars": 2377,
+      "ideas": 39,
       "role": "chapter",
       "order": 4,
       "prev": "diva_bara_007.html",
@@ -118,9 +118,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 123,
-      "chars": 806,
-      "ideas": 15,
+      "words": 114,
+      "chars": 763,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "diva_bara_008.html",
@@ -138,14 +138,14 @@
   ],
   "totals": {
     "all": {
-      "words": 13590,
-      "chars": 76938,
-      "ideas": 281
+      "words": 13965,
+      "chars": 79139,
+      "ideas": 318
     },
     "chapters": {
-      "words": 13461,
-      "chars": 76098,
-      "ideas": 262
+      "words": 13845,
+      "chars": 78342,
+      "ideas": 300
     }
   }
 }
