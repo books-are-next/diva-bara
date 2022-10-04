@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-diva-bara-50e8779",
-  "revision": "50e8779",
+  "identifier": "nemcova-diva-bara-1a573cf",
+  "revision": "1a573cf",
   "readingOrder": [
     "promo.html",
     "diva_bara_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:32:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908356243
+    "date": "Tue Oct 04 2022 22:49:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664923796283
   },
   "documents": [
     {
